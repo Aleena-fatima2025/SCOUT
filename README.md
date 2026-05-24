@@ -49,4 +49,4 @@ S.C.O.U.T. is a smart, autonomous 4WD obstacle-avoidance robot. Powered by an Ar
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/Aleena-fatima2025/SCOUT-Obstacle-Avoidance-Robot.git](https://github.com/Aleena-fatima2025/SCOUT-Obstacle-Avoidance-Robot.git)
+   git clone [https://github.com/Aleena-fatima2025/SCOUT.git](https://github.com/Aleena-fatima2025/SCOUT.git)
